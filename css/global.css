@@ -10,3 +10,12 @@
     flex-grow: initial;
     flex-shrink: initial;
 }
+
+.px-7 {
+    padding-right:4rem!important;
+    padding-left:4rem!important;
+}
+
+.pt-9 {
+    padding-top: 6rem!important;
+}
